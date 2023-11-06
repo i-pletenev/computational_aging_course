@@ -7,9 +7,9 @@ dependencies:
   - python=3.10
   - pip=22.2
   - r-base=4.3
-  - bioconductor-deseq2
-  - bioconductor-degreport
-  - bioconductor-summarizedexperiment
+  - bioconductor-deseq2=1.40.2
+  - bioconductor-degreport=1.36.0
+  - bioconductor-summarizedexperiment=1.30.2
   - pip:
     - scipy==1.7.2
     - jupyter-book==0.13.1
